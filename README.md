@@ -2,10 +2,6 @@
 
 An automated expense tracking system built with n8n that allows users to track their expenses through Telegram messages.
 
-## Demo Video
-
-
-[![Demo Video](https://img.youtube.com/vi/R_rpVs98ohc/maxresdefault.jpg)](https://youtu.be/R_rpVs98ohc?si=K4jiL96eNHjbOoMw)
 
 ## Overview
 
